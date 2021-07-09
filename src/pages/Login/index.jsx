@@ -79,7 +79,7 @@ export default class index extends Component {
             </Form.Item>
           </Form>
         </div>
-        <a href="https://beian.miit.gov.cn" style="margin: 0 auto;">粤ICP备2021031312号-1</a>
+        <a href="https://beian.miit.gov.cn">粤ICP备2021031312号-1</a>
       </div>
     )
   }
